@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Kingfisher (4.0.1)
+  - ReachabilitySwift (4.0-beta2)
+  - Spring (1.0.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Kingfisher (from `https://github.com/onevcat/Kingfisher`)
+  - ReachabilitySwift (from `https://github.com/ashleymills/Reachability.swift`)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift4`)
+
+EXTERNAL SOURCES:
+  Kingfisher:
+    :git: https://github.com/onevcat/Kingfisher
+  ReachabilitySwift:
+    :git: https://github.com/ashleymills/Reachability.swift
+  Spring:
+    :branch: swift4
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Kingfisher:
+    :commit: 037c3ec78bb77cb16a6f3076006f718fd66283c6
+    :git: https://github.com/onevcat/Kingfisher
+  ReachabilitySwift:
+    :commit: 90e44ca50cad06d68c112c1e03b4c5679ef0c7d5
+    :git: https://github.com/ashleymills/Reachability.swift
+  Spring:
+    :commit: b65cb00a1adc7e810e2ad10b174b840b6d520ac3
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Kingfisher: 694682d76eb985ae1fd3a14034d67ad4d1c3ff05
+  ReachabilitySwift: b4cef388a00e2f07f344ade992a7408e8f38095e
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+
+PODFILE CHECKSUM: b3cf18bdaeec0a2a4313cfdfa67762e388af9960
+
+COCOAPODS: 1.3.1
